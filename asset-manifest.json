@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/graeflix/static/css/main.4639e886.chunk.css",
+    "main.js": "/graeflix/static/js/main.c5c05905.chunk.js",
+    "main.js.map": "/graeflix/static/js/main.c5c05905.chunk.js.map",
+    "runtime-main.js": "/graeflix/static/js/runtime-main.f306a0d8.js",
+    "runtime-main.js.map": "/graeflix/static/js/runtime-main.f306a0d8.js.map",
+    "static/js/2.d000624a.chunk.js": "/graeflix/static/js/2.d000624a.chunk.js",
+    "static/js/2.d000624a.chunk.js.map": "/graeflix/static/js/2.d000624a.chunk.js.map",
+    "index.html": "/graeflix/index.html",
+    "precache-manifest.8d9772a53da61ec86398cb0851196caa.js": "/graeflix/precache-manifest.8d9772a53da61ec86398cb0851196caa.js",
+    "service-worker.js": "/graeflix/service-worker.js",
+    "static/css/main.4639e886.chunk.css.map": "/graeflix/static/css/main.4639e886.chunk.css.map",
+    "static/js/2.d000624a.chunk.js.LICENSE.txt": "/graeflix/static/js/2.d000624a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f306a0d8.js",
+    "static/js/2.d000624a.chunk.js",
+    "static/css/main.4639e886.chunk.css",
+    "static/js/main.c5c05905.chunk.js"
+  ]
+}
